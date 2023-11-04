@@ -129,5 +129,4 @@ const submitAnswer = ()=> {
 };
 
 showQuestion(qIndex);
-
 submitAnswer();
